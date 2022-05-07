@@ -2,6 +2,7 @@ import React from 'react'
 import { useTranslation } from 'react-i18next'
 import BR from '../../assets/img/br.svg'
 import US from '../../assets/img/us.svg'
+import ES from '../../assets/img/es.svg'
 import './styles.css'
 
 const languageOptions = [
@@ -14,6 +15,11 @@ const languageOptions = [
     name: 'US',
     value: 'en',
     flag: US,
+  },
+  {
+    name: 'ES',
+    value: 'es',
+    flag: ES
   },
   
   ]
