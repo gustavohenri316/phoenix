@@ -1,0 +1,24 @@
+{
+  "translation": {
+    "navBarItem1": "About Us",
+    "navBarItem2": "Services",
+    "navBarItem3": "Products",
+    "navBarItem4": "Blog",
+    "navBarItem5": "Career",
+    "navBarItem6": "Contact",
+    "titleConteudoOne": "We are development specialists",
+    "typicalConteudoOne": "of Software",
+    "typicalConteudoTwo": "of Cloud Applications",
+    "typicalConteudoTree": "of Web Applications",
+    "typicalConteudoFour": "of Desktop Applications",
+    "typicalConteudoFive": "of Mobile Applications",
+    "paragrafoConteudoOne": "We help you in the process of digital transformation and innovation!",
+    "buttonConteudoOne": "Talk to a consultant",
+    "Inovacao": "for whom we innovate",
+
+    "keyBV": "Welcome",
+    "KeyTitleSP": "IT Solution Provider",
+    "KeyParagrafoTextSP": "We are your IT partner for software development, multicloud platform for microservices, integration and upgrade of legacy systems."
+  
+  }
+}

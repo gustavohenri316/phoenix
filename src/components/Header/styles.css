@@ -1,0 +1,32 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding-bottom: 2px;
+  padding-top: 0.5rem;
+}
+.logo > img {
+  width: 207px;
+  height: 59px;
+  padding-right: 18rem;
+}
+.nav{
+  display: flex;
+  gap: 1.5rem;
+}
+.nav > a {
+  text-decoration: none;
+  color: #5e5e5e;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.nav > a:hover {
+  color: rgb(197, 5, 5);
+  border-bottom: 2px solid rgb(197, 5, 5);
+}
+.items{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
