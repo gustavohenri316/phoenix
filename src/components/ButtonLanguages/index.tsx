@@ -32,7 +32,8 @@ export function ButtonLanguages () {
           languageOptions.map(languageOption =>(
             <button
                 key={languageOption.value}
-                onClick={() => {
+                onClick={(e) => {
+                 
                   i18n.changeLanguage(languageOption.value)
                 }}
             >
